@@ -1,0 +1,7 @@
+Where to learn basics:
+https://cses.fi/book/book.pdf
+https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/
+https://leetcode.com/
+https://www.codechef.com/
+Where to Compete:
+https://codeforces.com/

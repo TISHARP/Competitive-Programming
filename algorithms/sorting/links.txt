@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/sorting-algorithms
+https://cses.fi/book/book.pdf#chapter.3
+https://www.freecodecamp.org/news/sorting-algorithms-explained-with-examples-in-python-java-and-c/
+https://brilliant.org/wiki/sorting-algorithms/
