@@ -15,10 +15,10 @@ def solve(n):
 
 def inputOutput():
     n = int(input())
-    solve(n)
+    print(solve(n))
 
 def main():
     t = int(input())
-    for _ in t:
+    for _ in range(t):
         inputOutput()
 main()
