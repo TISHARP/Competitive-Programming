@@ -2,6 +2,19 @@ import math
 import time
 from collections import Counter
 FIXED_RANDOM = int(time.time()*100000)
+
+def readInt():
+    return int(input())
+
+def readInts():
+    return [int(x) for x in input().split(" ")]
+
+def readStr():
+    return input()
+
+def readStrs():
+    return [x for x in input().split(" ")]
+
 def mk(k):
     k+=FIXED_RANDOM
     k+=0x9e3779b97f4a7c15
